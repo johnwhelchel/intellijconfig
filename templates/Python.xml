@@ -2,5 +2,6 @@
   <template name="iter" value="for $VAR$ in $ITERABLE$:&#10;&#9;$END$" description="Iterate (for ... in ...)" toReformat="false" toShortenFQNames="true">
     <variable name="ITERABLE" expression="pyIterableVariable()" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR" expression="collectionElementName(ITERABLE)" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
 </templateSet>
