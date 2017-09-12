@@ -7,11 +7,6 @@
     <option name="SEARCH_SCOPE" value="Main" />
     <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
       <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
@@ -19,10 +14,28 @@
       <mask>*.sql</mask>
       <mask>*.sq</mask>
       <mask>*.s</mask>
-      <mask>*.</mask>
       <mask>*dom.py</mask>
       <mask>domain/*.py</mask>
       <mask>domain*.py</mask>
+      <mask>*.pytest</mask>
+      <mask>*.pytes</mask>
+      <mask>*.pyte</mask>
+      <mask>test/((*.py</mask>
+      <mask>test/(*.py</mask>
+      <mask>test/**.py</mask>
+      <mask>test/**/*.py</mask>
+      <mask>test/**/.py</mask>
+      <mask>te.py</mask>
+      <mask>t.py</mask>
+      <mask>.py</mask>
+      <mask>*t.py</mask>
+      <mask>test*.py</mask>
+      <mask>test/*.py</mask>
+      <mask>test/*.p</mask>
+      <mask>test/*.</mask>
+      <mask>test/*</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
       <mask>*.py</mask>
     </recentFileMasks>
   </component>
