@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="Main" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Main" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="*sql" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -29,12 +29,14 @@
       <mask>domain/*.</mask>
       <mask>domain/*</mask>
       <mask>*</mask>
-      <mask>*.p</mask>
       <mask>*.sql</mask>
       <mask>*.sq</mask>
       <mask>*.s</mask>
-      <mask>*.</mask>
       <mask>*.py</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*sq</mask>
+      <mask>*sql</mask>
     </recentFileMasks>
   </component>
 </application>
