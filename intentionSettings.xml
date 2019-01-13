@@ -1,6 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="Python/Convert method to property" />
-    <ignoreAction name="Python/Insert type assertion" />
-  </component>
-</application>
