@@ -5,6 +5,7 @@
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CompareCells" />
   <action id="Debug" />
+  <action id="DecrementWindowHeight" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="EditorDelete">
@@ -19,6 +20,22 @@
     <keyboard-shortcut first-keystroke="shift meta a" />
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
+  <action id="IncrementWindowHeight" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift meta up" />
+  </action>
+  <action id="MoveStatementDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="MoveStatementUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="ResetColumnsWidth" />
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
   <action id="Scala.RunConsole" />
   <action id="Scala.ShowImplicitArguments" />
   <action id="Scala.ShowImplicits">
