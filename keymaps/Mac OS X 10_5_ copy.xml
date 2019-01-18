@@ -15,17 +15,21 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
+  <action id="EditorLineEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl e" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift meta a" />
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
+  <action id="GotoRelated" />
   <action id="IncrementWindowHeight" />
   <action id="MoveLineDown">
-    <keyboard-shortcut first-keystroke="shift meta down" />
+    <keyboard-shortcut first-keystroke="ctrl meta down" />
   </action>
   <action id="MoveLineUp">
-    <keyboard-shortcut first-keystroke="shift meta up" />
+    <keyboard-shortcut first-keystroke="ctrl meta up" />
   </action>
   <action id="MoveStatementDown">
     <keyboard-shortcut first-keystroke="shift alt down" />
