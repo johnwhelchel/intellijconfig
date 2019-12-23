@@ -1,0 +1,37 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*md</mask>
+    <mask>*ts</mask>
+    <mask>BIO:D</mask>
+    <mask>domain_user_testing.ts</mask>
+    <mask>index.ts</mask>
+    <mask>*Scv.scala</mask>
+    <mask>*.ts,!*test.ts</mask>
+    <mask>pot_projection*def.ts</mask>
+    <mask>*_projection*def.ts</mask>
+    <mask>*_testing.ts</mask>
+    <mask>*BUILD</mask>
+    <mask>*.MD</mask>
+    <mask>*.bzl</mask>
+    <mask>BUILD</mask>
+    <mask>*test.js</mask>
+    <mask>*text_indexer.js</mask>
+    <mask>*scala</mask>
+    <mask>*.md</mask>
+    <mask>*Spec.scala</mask>
+    <mask>*_test.ts</mask>
+    <mask>*mutations.ts</mask>
+    <mask>*def.ts</mask>
+    <mask>*_def.ts</mask>
+    <mask>*test.ts</mask>
+    <mask>*.py</mask>
+    <mask>*.json</mask>
+    <mask>*.js</mask>
+    <mask>*.scala</mask>
+    <mask>*.ts</mask>
+    <mask>*.scss</mask>
+  </component>
+</application>

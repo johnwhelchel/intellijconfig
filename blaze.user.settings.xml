@@ -1,0 +1,9 @@
+<application>
+  <component name="BlazeUserSettings">
+    <option name="bazelBinaryPath" value="$USER_HOME$/sandbox/asana/bzl" />
+    <option name="expandSyncToWorkingSet" value="false" />
+    <option name="showBlazeConsoleOnSync" value="On error" />
+    <option name="showProblemsViewOnSync" value="On error" />
+    <option name="syncStatusPopupShown" value="true" />
+  </component>
+</application>
