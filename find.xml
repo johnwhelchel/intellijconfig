@@ -28,14 +28,14 @@
     <mask>*Spec.scala</mask>
     <mask>*_test.ts</mask>
     <mask>*mutations.ts</mask>
-    <mask>*def.ts</mask>
     <mask>*_def.ts</mask>
     <mask>*test.ts</mask>
     <mask>*.py</mask>
     <mask>*.json</mask>
     <mask>*.scala</mask>
-    <mask>*.ts</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
+    <mask>*.ts</mask>
+    <mask>*def.ts</mask>
   </component>
 </application>
