@@ -19,7 +19,6 @@
     <mask>*BUILD</mask>
     <mask>*.MD</mask>
     <mask>*.bzl</mask>
-    <mask>BUILD</mask>
     <mask>*test.js</mask>
     <mask>*text_indexer.js</mask>
     <mask>*scala</mask>
@@ -37,5 +36,6 @@
     <mask>*.ts</mask>
     <mask>*def.ts</mask>
     <mask>user*def.ts</mask>
+    <mask>BUILD</mask>
   </component>
 </application>
