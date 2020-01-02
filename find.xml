@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*_test.ts" />
     <mask>*ts</mask>
     <mask>BIO:D</mask>
     <mask>domain_user_testing.ts</mask>
@@ -24,7 +25,6 @@
     <mask>*scala</mask>
     <mask>*.md</mask>
     <mask>*Spec.scala</mask>
-    <mask>*_test.ts</mask>
     <mask>*mutations.ts</mask>
     <mask>*_def.ts</mask>
     <mask>*test.ts</mask>
@@ -37,5 +37,6 @@
     <mask>*def.ts</mask>
     <mask>user*def.ts</mask>
     <mask>BUILD</mask>
+    <mask>*_test.ts</mask>
   </component>
 </application>
