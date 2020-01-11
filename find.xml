@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*_def.ts" />
     <mask>BIO:D</mask>
     <mask>domain_user_testing.ts</mask>
     <mask>index.ts</mask>
@@ -22,7 +23,6 @@
     <mask>*.md</mask>
     <mask>*Spec.scala</mask>
     <mask>*mutations.ts</mask>
-    <mask>*_def.ts</mask>
     <mask>*test.ts</mask>
     <mask>*.py</mask>
     <mask>*.json</mask>
@@ -35,5 +35,6 @@
     <mask>pot*_def.ts</mask>
     <mask>*_test.ts</mask>
     <mask>BUILD</mask>
+    <mask>*_def.ts</mask>
   </component>
 </application>
