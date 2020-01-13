@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>BIO:D</mask>
+    <option name="FILE_MASK" value="*js" />
     <mask>domain_user_testing.ts</mask>
     <mask>index.ts</mask>
     <mask>*Scv.scala</mask>
@@ -35,5 +35,6 @@
     <mask>*_test.ts</mask>
     <mask>BUILD</mask>
     <mask>*_def.ts</mask>
+    <mask>*js</mask>
   </component>
 </application>
