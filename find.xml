@@ -2,11 +2,7 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*js" />
-    <mask>domain_user_testing.ts</mask>
     <mask>index.ts</mask>
     <mask>*Scv.scala</mask>
     <mask>*.ts,!*test.ts</mask>
@@ -36,5 +32,6 @@
     <mask>*_def.ts</mask>
     <mask>*def.ts</mask>
     <mask>*js</mask>
+    <mask>*controller.js</mask>
   </component>
 </application>
