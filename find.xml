@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*mutations.ts" />
     <mask>*Scv.scala</mask>
     <mask>*.ts,!*test.ts</mask>
     <mask>pot_projection*def.ts</mask>
@@ -16,7 +17,6 @@
     <mask>*scala</mask>
     <mask>*.md</mask>
     <mask>*Spec.scala</mask>
-    <mask>*mutations.ts</mask>
     <mask>*test.ts</mask>
     <mask>*.py</mask>
     <mask>*.json</mask>
@@ -33,5 +33,6 @@
     <mask>*js</mask>
     <mask>*controller.js</mask>
     <mask>*mutations.js</mask>
+    <mask>*mutations.ts</mask>
   </component>
 </application>
