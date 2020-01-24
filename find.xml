@@ -28,12 +28,12 @@
     <mask>pot*_def.ts</mask>
     <mask>*_test.ts</mask>
     <mask>BUILD</mask>
-    <mask>*_def.ts</mask>
     <mask>*def.ts</mask>
     <mask>*js</mask>
     <mask>*controller.js</mask>
     <mask>*mutations.js</mask>
     <mask>*mutations.ts</mask>
     <mask>*.js</mask>
+    <mask>*_def.ts</mask>
   </component>
 </application>
