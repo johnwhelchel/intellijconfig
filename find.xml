@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*test.js" />
     <mask>*Scv.scala</mask>
     <mask>*.ts,!*test.ts</mask>
     <mask>pot_projection*def.ts</mask>
@@ -13,7 +14,6 @@
     <mask>*BUILD</mask>
     <mask>*.MD</mask>
     <mask>*.bzl</mask>
-    <mask>*test.js</mask>
     <mask>*text_indexer.js</mask>
     <mask>*scala</mask>
     <mask>*.md</mask>
@@ -35,5 +35,6 @@
     <mask>*mutations.ts</mask>
     <mask>*.js</mask>
     <mask>*_def.ts</mask>
+    <mask>*test.js</mask>
   </component>
 </application>
