@@ -22,7 +22,6 @@
     <mask>user*def.ts</mask>
     <mask>pot*_def.ts</mask>
     <mask>*_test.ts</mask>
-    <mask>BUILD</mask>
     <mask>*def.ts</mask>
     <mask>*js</mask>
     <mask>*mutations.js</mask>
@@ -33,5 +32,6 @@
     <mask>*mutations.ts</mask>
     <mask>*.ts</mask>
     <mask>*examples.ts</mask>
+    <mask>BUILD</mask>
   </component>
 </application>
