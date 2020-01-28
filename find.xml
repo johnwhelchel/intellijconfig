@@ -1,12 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
-    <mask>*Scv.scala</mask>
     <mask>*.ts,!*test.ts</mask>
     <mask>pot_projection*def.ts</mask>
     <mask>*_projection*def.ts</mask>
@@ -36,5 +32,6 @@
     <mask>*controller.js</mask>
     <mask>*mutations.ts</mask>
     <mask>*.ts</mask>
+    <mask>*examples.ts</mask>
   </component>
 </application>
