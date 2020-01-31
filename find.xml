@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="FILE_MASK" value="*test.ts" />
     <mask>*.ts,!*test.ts</mask>
     <mask>pot_projection*def.ts</mask>
     <mask>*_projection*def.ts</mask>
@@ -15,7 +15,6 @@
     <mask>*scala</mask>
     <mask>*.md</mask>
     <mask>*Spec.scala</mask>
-    <mask>*test.ts</mask>
     <mask>*.py</mask>
     <mask>*.json</mask>
     <mask>*.scala</mask>
@@ -34,5 +33,6 @@
     <mask>BUILD</mask>
     <mask>*.scss</mask>
     <mask>*.ts</mask>
+    <mask>*test.ts</mask>
   </component>
 </application>
