@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*def.ts" />
+    <option name="FILE_MASK" value="*mutations.ts" />
     <mask>*.ts,!*test.ts</mask>
     <mask>pot_projection*def.ts</mask>
     <mask>*_projection*def.ts</mask>
@@ -26,7 +26,6 @@
     <mask>*_def.ts</mask>
     <mask>*test.js</mask>
     <mask>*controller.js</mask>
-    <mask>*mutations.ts</mask>
     <mask>BUILD</mask>
     <mask>*.scss</mask>
     <mask>*test.ts</mask>
@@ -34,5 +33,6 @@
     <mask>*examples.ts</mask>
     <mask>*.ts</mask>
     <mask>*def.ts</mask>
+    <mask>*mutations.ts</mask>
   </component>
 </application>
