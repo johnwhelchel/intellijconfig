@@ -134,6 +134,9 @@
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="ctrl meta a" />
   </action>
+  <action id="PinActiveTab">
+    <keyboard-shortcut first-keystroke="ctrl meta n" />
+  </action>
   <action id="Refactorings.QuickListPopupAction" />
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
