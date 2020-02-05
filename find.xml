@@ -2,10 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.ts,!*test.ts</mask>
+    <option name="FILE_MASK" value="*mutations_test.js" />
     <mask>pot_projection*def.ts</mask>
     <mask>*_projection*def.ts</mask>
     <mask>*_testing.ts</mask>
@@ -35,5 +33,6 @@
     <mask>*mutations.ts</mask>
     <mask>*_def.ts</mask>
     <mask>*.js</mask>
+    <mask>*mutations_test.js</mask>
   </component>
 </application>
