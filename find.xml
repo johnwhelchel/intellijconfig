@@ -21,7 +21,6 @@
     <mask>*_test.ts</mask>
     <mask>*js</mask>
     <mask>*mutations.js</mask>
-    <mask>*test.js</mask>
     <mask>*controller.js</mask>
     <mask>BUILD</mask>
     <mask>*.scss</mask>
@@ -33,5 +32,6 @@
     <mask>*mutations_test.js</mask>
     <mask>*.js</mask>
     <mask>*.ts</mask>
+    <mask>*test.js</mask>
   </component>
 </application>
